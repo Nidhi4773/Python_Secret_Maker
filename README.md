@@ -13,7 +13,7 @@ To set up and run the Password Generator Application locally, follow these steps
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Nidhi4773/
+   git clone https://github.com/Nidhi4773/Python_Secret_Maker.git
    ```
 
 2. **Ensure Python is Installed**: This application requires Python 3.x. If you don't have Python installed, download it from [python.org](https://www.python.org/downloads/).
